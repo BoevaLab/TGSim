@@ -1,0 +1,38 @@
+﻿La génération a démarré 17/04/2014 18:21:16.
+     1>Projet "\\bi-files\perso\Desktop\workspace\PEMsimulation\tumorGenomeSim\tumorGenomeSim\tumorGenomeSim.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "Debug\tumorGenomeSim.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>\\bi-files\perso\desktop\workspace\pemsimulation\tumorgenomesim\tumorgenomesim\main.cpp(79): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : voir la déclaration de 'access'
+     1>\\bi-files\perso\desktop\workspace\pemsimulation\tumorgenomesim\tumorgenomesim\main.cpp(115): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : voir la déclaration de 'access'
+     1>\\bi-files\perso\desktop\workspace\pemsimulation\tumorgenomesim\tumorgenomesim\main.cpp(145): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : voir la déclaration de 'access'
+     1>\\bi-files\perso\desktop\workspace\pemsimulation\tumorgenomesim\tumorgenomesim\main.cpp(62): warning C4101: 'error' : variable locale non référencée
+     1>\\bi-files\perso\desktop\workspace\pemsimulation\tumorgenomesim\tumorgenomesim\main.cpp(71): warning C4101: 'error' : variable locale non référencée
+     1>\\bi-files\perso\desktop\workspace\pemsimulation\tumorgenomesim\tumorgenomesim\main.cpp(101): warning C4101: 'error' : variable locale non référencée
+     1>\\bi-files\perso\desktop\workspace\pemsimulation\tumorgenomesim\tumorgenomesim\main.cpp(135): warning C4101: 'error' : variable locale non référencée
+     1>\\bi-files\perso\desktop\workspace\pemsimulation\tumorgenomesim\tumorgenomesim\main.cpp(165): warning C4101: 'error' : variable locale non référencée
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\bi-files\perso\Desktop\workspace\PEMsimulation\tumorGenomeSim\Debug\tumorGenomeSim.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\tumorGenomeSim.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"\\bi-files\perso\Desktop\workspace\PEMsimulation\tumorGenomeSim\Debug\tumorGenomeSim.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\bi-files\perso\Desktop\workspace\PEMsimulation\tumorGenomeSim\Debug\tumorGenomeSim.lib" /MACHINE:X86 Debug\Chameleon.obj
+         Debug\Chromosome.obj
+         Debug\ConfigFile.obj
+         Debug\Genome.obj
+         Debug\GenomeElement.obj
+         Debug\main.obj
+         Debug\myFunc.obj
+         LINK : \\bi-files\perso\Desktop\workspace\PEMsimulation\tumorGenomeSim\Debug\tumorGenomeSim.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+         tumorGenomeSim.vcxproj -> \\bi-files\perso\Desktop\workspace\PEMsimulation\tumorGenomeSim\Debug\tumorGenomeSim.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"\\bi-files\perso\Desktop\workspace\PEMsimulation\tumorGenomeSim\Debug\tumorGenomeSim.exe;#1" /manifest Debug\tumorGenomeSim.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\tumorGenomeSim.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\tumorGenomeSim.lastbuildstate".
+     1>Génération du projet "\\bi-files\perso\Desktop\workspace\PEMsimulation\tumorGenomeSim\tumorGenomeSim\tumorGenomeSim.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:07.14

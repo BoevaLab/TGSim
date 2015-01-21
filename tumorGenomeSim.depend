@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1397754191 source:/bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/main.cpp
+	"tgsim.h"
+	"Genome.h"
+
+1397751979 /bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/tgsim.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"ConfigFile.h"
+	"ConfigFile.h"
+	"Chameleon.h"
+	"Genome.h"
+
+1265029687 /bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/ConfigFile.h
+	<string>
+	<map>
+	"Chameleon.h"
+
+1265036792 /bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/Chameleon.h
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1397753664 /bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/Genome.h
+	<string>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<map>
+	<fstream>
+	"tgsim.h"
+	"Chromosome.h"
+	"myFunc.h"
+	<stdint.h>
+
+1397667875 /bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/Chromosome.h
+	"GenomeElement.h"
+
+1397234325 /bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/GenomeElement.h
+	<vector>
+	<map>
+	<stdlib.h>
+	<iostream>
+	"myFunc.h"
+
+1397754779 /bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/myFunc.h
+	<vector>
+	<string>
+	<sstream>
+	<math.h>
+	<fstream>
+	<cstdlib>
+	<iostream>
+	<algorithm>
+	<stdint.h>
+
+1315222130 source:/bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/ConfigFile.cpp
+	"ConfigFile.h"
+	<fstream>
+
+1397755507 source:/bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/Genome.cpp
+	"Genome.h"
+
+1264676579 source:/bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/Chameleon.cpp
+	<string>
+	<sstream>
+	"Chameleon.h"
+	<iostream>
+
+1396279930 source:/bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/myFunc.cpp
+	"myFunc.h"
+
+1397234362 source:/bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/GenomeElement.cpp
+	"GenomeElement.h"
+
+1397755628 source:/bioinfo/users/vboeva/workspace/PEMsimulation/tumorGenomeSim/tumorGenomeSim/Chromosome.cpp
+	"Chromosome.h"
+
